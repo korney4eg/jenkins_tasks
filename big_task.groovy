@@ -1,4 +1,4 @@
-# Define list of repositories to check out
+// Define list of repositories to check out
 def my_repos = ['a','b','c','d']
 
 stage('Preparation'){
