@@ -1,1 +1,3 @@
-echo 'Hello Alex'
+stage('Preparation'){
+  echo 'Hello Alex'
+}
