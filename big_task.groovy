@@ -3,6 +3,6 @@ def my_repos = ['a','b','c','d']
 
 stage('Preparation'){
     for (repo in my_repos){
-      echo 'Checking out repo ${repo}'
+      echo "Checking out repo ${repo}"
     }
 }
